@@ -1,6 +1,6 @@
 """
 ==================================================
- Basic Network Sniffer  —  CodeAlpha Task 1
+ Basic Network Sniffer  —  CodeAlpha Task 2
 ==================================================
 This program captures live network traffic on your computer and
 shows useful information about each packet: source IP, destination
