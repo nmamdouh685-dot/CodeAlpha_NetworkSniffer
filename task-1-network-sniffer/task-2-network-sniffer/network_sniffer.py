@@ -1,4 +1,4 @@
-# 📡 Task 1: Basic Network Sniffer
+# 📡 Task 2: Basic Network Sniffer
 
 ## 📌 Project Overview
 This project is a Python-based **Network Packet Sniffer** developed for the **CodeAlpha Cybersecurity Internship**[cite: 1]. The tool captures, decodes, and analyzes live network traffic packets in real-time to inspect protocol structures and payload data[cite: 1].
